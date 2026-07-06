@@ -18,3 +18,10 @@ python int_cpld.py
 Again, the maximum number of iterations has been decreased. To achieve convergence, the code was run with the maximum number of iterations set to 1,000,000.
 
 Both directories contain a file called Master.py. This file contains the master equation expressed as a matrix of rate constants. This matrix is read in to the other scripts which then perform the integration.
+
+ // Dahl_ChemSubmission //
+
+The directory titled Dahl_ChemSubmission contains the code used to simulate the data presented in the mansucript titled, "Quantitative kinetic modeling of coupled photochemical reactions during N2 reduction by CdS:molybdenum nitrogenase biohybrids" by Peter J. Dahl, Charles D. Smith, Ekaterina M. Stroeva-Dahl, Lauren M. Pellows, Zhi-Yong Yang, John W. Peters, Lance C. Seefeldt, Gordana Dukovic, David W. Mulder, and Paul W. King. The subdirectories contain the code and parameters needed to reproduce the data presented in Figure 2, Figure 3, and Figure 5.
+
+The manuscript is currently under review in Chem.
+ 
